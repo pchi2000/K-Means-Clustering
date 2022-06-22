@@ -12,7 +12,7 @@ ylabel('Voltage (\muV)')
     % You will notice a low frequency component in the signal,
     % known as the local field potential (LFP). We are not interested in analyzing the LFP
     % during spike sorting. Remove the LFP using a high-pass filter, stopping frequencies
-    % below 250 Hz. Also, set a threshold, Vthresh = 250 µV, and plot the
+    % below 250 Hz. Also, set a threshold, Vthresh = 250 ÂµV, and plot the
     % threshold as a line across plot
 x = RealWaveform;
 f_0 = 30000; % sampling rate of waveform (Hz)
