@@ -1,5 +1,5 @@
 # K-Means-Clustering
-Assigns spike waveforms to one of two cluster groups
+Assigns spike waveforms to one of two cluster groups. Read K-Means.pdf
 
 The threshold-Crossing waveform snippets contain approximately two different shapes meaning there are two neurons contributing to these waveforms. The K-means clustering algorithm is an unsupervised learning algorithm that assigns each waveform as belonging to one of the two clusters (neurons). 
 
